@@ -1,0 +1,10 @@
+{
+  "name": "snipe-prjktneon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@taquito/signer": "^10.1.2",
+    "@taquito/taquito": "^10.1.2"
+  }
+}
